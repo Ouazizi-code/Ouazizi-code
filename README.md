@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ouazizi-code
+- 👋 Hi, I’m Hassan el ouazizi
 -  I’m interested in front-end developement.
 -  I’m currently learning j-script.
 - ⚡ Fun fact: just reverse it. 
